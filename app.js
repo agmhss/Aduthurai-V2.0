@@ -4,8 +4,8 @@
  */
 
 const APP_CONFIG = {
-    fullName: "GHSS VELAMURITHANPETTAI", 
-    shortName: "GHSS VMPT",                                           
+    fullName: "GHSS ADUTHURAI", 
+    shortName: "GHSS ADUTHURAI",                                           
     scriptUrl: "https://script.google.com/macros/s/AKfycbzcSpTiFtgr0LrPXtcX5pYsCRFh8PlxHT3kQhuO0v84WnmtxQaar7dwqrubsP8HHM0/exec" 
 };
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
